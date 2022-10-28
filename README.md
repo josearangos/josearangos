@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josearangos 
-- 👀 I’m interested in Data Science, Ml, DL, Voice, science and software.
+- 👀 I’m interested in Data Science, ML, DL, Voice, science and software.
 - 🌱 I’m currently learning about MLOps, there are a lot of amazing models of AI that only the scientists know how the hell run. My goal is carry these to the human. The science is for everyone !!! 
 - 💞️ I’m looking to collaborate on Machine Learning Open Source Tools to democratize the use of these
 - 📫 jose.arangos@udea.edu.co
