@@ -12,9 +12,6 @@ Data Scientist and Machine Learning Engineer
 * 💡 I believe that big challenges bring out the best in you. 
 * 💞️ Looking to collaborate on Machine Learning Open Source Tools to democratize the use of these. 
 * 📫 Reach me at jose.arangos@udea.edu.co
-
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [jose.arangos@udea.edu.co](mailto:jose.arangos@udea.edu.co)
 * 🧠  I'm learning LLMs, LLMOps, MLOps, Langchain, AutoGen, LMMs
 * 🤝  I'm open to collaborating on NLP solutions, LLMs, Speech recognition, Emotion recognition, Diarization, Speech validation
 
