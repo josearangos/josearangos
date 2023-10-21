@@ -11,6 +11,11 @@ Data Scientist and Machine Learning Engineer
 * 🧠  I'm learning LLMs, LLMOps, MLOps, Langchain, AutoGen, LMMs
 * 🤝  I'm open to collaborating on NLP solutions, LLMs, Speech recognition, Emotion recognition, Diarization, Speech validation
 
+### Papers
+
+Arango-Sánchez, Jose A., and Julián D. Arias-Londoño. ["An enhanced conv-TasNet model for speech separation using a speaker distance-based loss function." arXiv preprint arXiv:2205.13657 (2022)](https://arxiv.org/abs/2205.13657)
+
+
 <a href="https://www.github.com/josearangos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/josearangos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/JosAlbertoAran2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JosAlbertoAran2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
