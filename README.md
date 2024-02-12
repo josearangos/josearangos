@@ -8,13 +8,13 @@ Data Scientist and Machine Learning Engineer
 * 👀 My great passion is Artificial Intelligence and Innovation. 
 * 📚 Interested in Data Science, ML, DL, Voice, science, and software. 
 * 🌱 Currently learning about MLOps, LLMOps, unraveling the mysteries of AI models.
-* 🧠 My goal is to make science accessible to all! 
+* 🧠 My goal is to make science accessible to everyone! 
 * 💡 I believe that big challenges bring out the best in you. 
 * 💞️ Looking to collaborate on Machine Learning Open Source Tools to democratize the use of these. 
 * 📫 Reach me at jose.arangos@udea.edu.co
 * 🧠  I'm learning LLMs, LLMOps, MLOps, Langchain, AutoGen, LMMs
 * 🤝  I'm open to collaborating on NLP solutions, LLMs, Speech recognition, Emotion recognition, Diarization, Speech validation
-
+* 
 ### Papers
 
 Arango-Sánchez, Jose A., and Julián D. Arias-Londoño. ["An enhanced conv-TasNet model for speech separation using a speaker distance-based loss function." arXiv preprint arXiv:2205.13657 (2022)](https://arxiv.org/abs/2205.13657)
